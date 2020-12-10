@@ -7,7 +7,7 @@
       <div class="p-4 flex items-center">
         <div>
           <p class="text-2xl">
-            ¿Que esperas? Descargar la app y comienza a disfrutar de tu
+            ¿Que esperas? Descarga la app y comienza a disfrutar de tu
             contenido favorio.
           </p>
           <div class="mt-3">
