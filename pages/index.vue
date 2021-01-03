@@ -13,7 +13,7 @@
           <div class="mt-3">
             <a
               class="btn py-2 px-4 bg-yellow-850 focus:outline:none rounded-lg"
-              href="/release.apk"
+              href="http://bit.ly/playhubplus"
             >
               Descargar
             </a>
